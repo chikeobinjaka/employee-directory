@@ -1,5 +1,5 @@
-import React from 'react';
+import React from "react";
 
-const Table = ({ children }) => (<table className="table">{children}</table>);
+const Table = ({ children }) => <table className="table">{children}</table>;
 
 export default Table;
